@@ -1,4 +1,4 @@
-# Digitorium Workshop 2: Versioning with GitHub on a Sunny Saturday!
+# Digitorium Workshop 2: Versioning with GitHub
 
 Presented by Lance Michael Simpson
 
